@@ -11,6 +11,8 @@ This is a React.js application that displays a chart using the Recharts library.
 - Timeframe breakdown: daily, weekly, monthly
 - Interactive click events to display data point details
 
+Link : https://chart26.netlify.app/
+
 ## Installation
 
 1. Clone the repository:
