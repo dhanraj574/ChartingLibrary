@@ -1,0 +1,36 @@
+#chart{
+    margin-left: -30px;
+    padding: 0px;
+    
+}
+.chart-cont{
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+}
+.export-btn-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:30px;
+}
+.export-btn{
+    height:40px;
+    width:110px;
+    border: 0px;
+    border-radius: 5px;
+    background-color:  rgb(121, 24, 174);
+    color:#ffffff;
+    font-family: Roboto;
+    cursor: pointer;
+}
+
+.custom-tooltip{
+    background-color: #ffffff;
+    padding:8px;
+    border-radius: 5px;
+}
+.tooltip-item{
+    color:#000;
+    margin: 0px;
+}
