@@ -1,3 +1,6 @@
+
+Link : https://chart26.netlify.app/
+
 # React Charting Library Assignment
 
 This is a React.js application that displays a chart using the Recharts library. The chart supports timeframe breakdowns (daily, weekly, monthly) and interactive click events. The chart data is provided in JSON format.
