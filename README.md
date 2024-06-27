@@ -16,7 +16,7 @@ Link : https://chart26.netlify.app/
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/dhanraj574/ChartingLibrary.git)
+   git clone https://github.com/dhanraj574/ChartingLibrary.git
 
 Navigate to the project directory:
 
