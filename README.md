@@ -12,7 +12,7 @@ This is a React.js application that displays a chart using the Recharts library.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/
+   git clone [https://github.com/](https://github.com/dhanraj574/ChartingLibrary.git)
 
 Navigate to the project directory:
 
