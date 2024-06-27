@@ -1,5 +1,4 @@
 
-Link : https://chart26.netlify.app/
 
 # React Charting Library Assignment
 
